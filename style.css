@@ -1,0 +1,44 @@
+#morphing {
+	padding: 20px;
+	position: relative;
+	margin-left: 20px;
+}
+
+#skillUp {
+	position: absolute; 
+	left: 90px;
+	top: 0px;
+	transform: translateX(-50%);
+}
+
+#skillL {
+	position: absolute; 
+	left: 0px;
+	top: 65px;
+	transform: translateX(-50%);
+}
+
+#skillLD {
+	position: absolute; 
+	left: 32px;
+	top: 165px;
+	transform: translateX(-50%);
+}
+
+#skillRD {
+	position: absolute; 
+	left: 148px;
+	top: 165px;
+	transform: translateX(-50%);
+}
+
+#skillR {
+	position: absolute; 
+	left: 180px;
+	top: 65px;
+	transform: translateX(-50%);
+}
+
+#star {
+	width: 220px
+}
